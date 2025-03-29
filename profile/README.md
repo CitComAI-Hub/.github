@@ -1,6 +1,6 @@
 # Citcom.ai Hub
 
-## Project's links
+## Project's link
 
 [Documentation](https://citcomai-hub.github.io/)
 
