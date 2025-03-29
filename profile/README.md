@@ -1,10 +1,10 @@
-# Citcom.ai x VRAIN-UPV
+# Citcom.ai Hub
 
-## Project documentation
+## Project's links
 
-[link](https://citcom-vrain.github.io/)
+[Documentation](https://citcomai-hub.github.io/)
 
-## Organizations links
+## Organization links
 
 [Citcom.ai](https://citcom.ai/)
 
